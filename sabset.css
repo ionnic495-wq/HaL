@@ -1,0 +1,6 @@
+p {
+ letter-spacing: -3px;
+}
+p,h1 {
+  line-height: 0px;
+}
