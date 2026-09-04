@@ -14,6 +14,7 @@ const m = ["cards/H13.png","cards/D13.png","cards/C13.png","cards/S13.png"];
 
 const cards = [b,c,d,e,f,g,h,i,j,k,l,m,a];
 
+document.getElementByIdI("cards").scr = "cards/Start.png";
 let res = null;
 let yen = 1;
 
